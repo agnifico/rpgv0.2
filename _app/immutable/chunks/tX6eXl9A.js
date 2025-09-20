@@ -1,0 +1,1 @@
+const e={Fire:"/game_icons/elements/fire.png",Water:"/game_icons/elements/water.png",Wind:"/game_icons/elements/wind.png",Nature:"/game_icons/elements/nature.png",Light:"/game_icons/elements/light.png",Dark:"/game_icons/elements/dark.png"};export{e};
